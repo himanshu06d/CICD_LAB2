@@ -6,6 +6,7 @@ public class cicdlab2 {
 		// TODO Auto-generated method stub
 System.out.println("Hello , jenkins");
 System.out.println("Hello, ops");
+System.out.println(("This is the thid push for the third build"));
 	}
 
 }
